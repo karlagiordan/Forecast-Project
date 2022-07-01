@@ -13,7 +13,7 @@ The final product of this analysis is a spreadsheet because it is simple, easy t
 This project was based in the dataset available on Kaggle on this [link](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist?resource=download), along with a random report extracted from **Google Analytics** platform.
 
 After extracting the data, it was transformed in a format that would make it easier for manipulating, using the function **TRANSPOSE** to populate the main spreadsheet.
-The dataset downloaded was composed by two files that was joined using **Python** and you can see the code [here](https://github.com/karlagiordan/Forecast-Project/blob/main/Forecast_ProjectCode_Leads_Data.ipynb).
+The dataset downloaded was composed by two files that was joined using **Python** and you can see the code [here](https://github.com/karlagiordan/Forecast-Project/blob/main/Forecast_Project%20Code_Leads_Data.ipynb).
 
 ## The Forecast
 
