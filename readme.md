@@ -1,8 +1,8 @@
 # Forecast-Project
 
-## Overview teste
+## Overview
 
-Forecast plays a big role in management decisions. It helps the decision makers to understand how the company is going to grow if it keeps operating in the currently way so, the management team can plan the future or make changes if the forecast’s results are below expectations. With this type of analysis, it is possible to identify and fix a variety of problems such as: stock planning, staff, marketing budget, seasonality, demand levels and much more.
+Forecast plays a big role in  decisions. It helps the decision makers to understand how the company is going to grow if it keeps operating in the currently way so, the management team can plan the future or make changes if the forecast’s results are below expectations. With this type of analysis, it is possible to identify and fix a variety of problems such as: stock planning, staff, marketing budget, seasonality, demand levels and much more.
 
 Before start choosing the forecasting technique and the tool to be used, it is important to understand the goal of the analysis and what decisions are going to be taken with its results. The forecaster needs work with the manager to understand what is expected, the level of accuracy needed and also, which data is available.
 
