@@ -13,7 +13,7 @@ The final product of this analysis is a spreadsheet because it is simple, easy t
 This project was based in the dataset available on Kaggle on this [link](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist?resource=download), along with a random report extracted from **Google Analytics** platform.
 
 After extracting the data, it was transformed in a format that would make it easier for manipulating, using the function **TRANSPOSE** to populate the main spreadsheet.
-The dataset downloaded was composed by two files that was joined using **Python** and you can see the code [here](https://github.com/belabarbosa/Forecast-Project/blob/0edf563c45d713cd91d16e3ffd650adf1b13dea3/Forecast%20Project%20code_Leads%20Data%20Analysis.ipynb).
+The dataset downloaded was composed by two files that was joined using **Python** and you can see the code [here](https://github.com/karlagiordan/Forecast-Project/blob/main/Forecast_Project Code_Leads_Data.ipynb).
 
 ## The Forecast
 
@@ -40,6 +40,6 @@ In order to minimaze the error for the analysis, I used the **Solver** in Micros
 
 ## See this project
 
-To see the final project click [here](https://github.com/belabarbosa/Forecast-Project/blob/44b88f032bc11176aa24f3df20b45dd6624080a1/Forecast.xlsx). 
+To see the final project click [here](https://github.com/karlagiordan/Forecast-Project/blob/main/Forecast.xlsx). 
 
-And if you have any comments or suggestions to improve this project, please feel free to contact me on [my Linkedin](www.linkedin.com/in/irbarbosa)
+And if you have any comments or suggestions to improve this project, please feel free to contact me on [my Linkedin](https://www.linkedin.com/in/karlagiordan/)
